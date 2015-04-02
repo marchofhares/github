@@ -1,0 +1,104 @@
+h1{
+	color:green;
+	text-align:center;
+	font-family: Georgia;
+	font-size:200%;
+}
+
+.h2{
+	color:green;
+	text-align:center;
+	font-family: Georgia;
+	font-size:150%;
+}
+
+.Banner {
+	position:fixed;
+	float:top;
+	padding-bottom:10%;
+	height:200px;
+	width:99%;
+	margin:0 auto;
+}
+
+.ClassyDivider {
+	position:fixed;
+	float:top;
+	padding-top:200px;
+	height:75px;
+	width:99%;
+	margin:0 auto;
+}
+
+#Container {
+	padding-top:25px;
+	width:100%;
+	margin:0 auto;
+}
+
+#MainImage {
+	border-style:solid;
+	border-width:1px;
+	border-color:white;
+	width:99%;
+}
+
+.Share {
+	width:25%;
+}
+
+.Left {
+	float:left;
+	position:fixed;
+	text-align:center;
+	width:15%;
+	padding-top:243px;
+	border-style:solid;
+	border-width:0px;
+	border-color:white;
+}
+
+.Center {
+	float:left;
+	width:66%;
+	padding-top:250px;
+	padding-bottom:500px;
+	padding-left:18%;
+	border-style:solid;
+	border-width:0px;
+	border-color:white;
+}
+
+.Bottom {
+	width:100%;
+	padding-left:1%;
+	margin:0 auto;
+}
+
+.Thumbnail {
+	width:32%;
+}
+
+.Related {
+	text-align:center;
+	font-size:125%;
+	width:99%;
+	margin:0 auto;
+}
+
+.Right {
+	float:right;
+	position:fixed;
+	width:20%;
+	height:50%;
+	padding-top:120px;
+	padding-left:41%;
+	padding-bottom:0px;
+	border-style:solid;
+	border-width:0px;
+	border-color:white;
+}
+
+ul{
+	font-style:oblique;
+}
